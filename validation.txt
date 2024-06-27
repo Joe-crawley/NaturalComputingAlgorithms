@@ -1,0 +1,24 @@
+validation for student 'tpkl28':
+
+'NatAlgDiscreteA.py' exists in the folder 'tpkl28'
+'NatAlgDiscreteB.py' exists in the folder 'tpkl28'
+'NatAlgDiscreteC.py' exists in the folder 'tpkl28'
+'NatAlgReal.py' exists in the folder 'tpkl28'
+'NatAlgReport.pdf' exists in the folder 'tpkl28'
+'NegSelReport.pdf' exists in the folder 'tpkl28'
+'NegSelTraining.py' exists in the folder 'tpkl28'
+'WitnessA.txt' exists in the folder 'tpkl28'
+'WitnessB.txt' exists in the folder 'tpkl28'
+'WitnessC.txt' exists in the folder 'tpkl28'
+for 'NegSelTraining.py':
+  username = 'tpkl28'; algorithm code = 'VD'
+for 'NatAlgReal.py':
+  username = 'tpkl28'; algorithm code = 'WO'
+for 'NatAlgDiscreteA.py':
+  username = 'tpkl28'; algorithm code = 'WO'; problem code = 'GC'; graph digit = 'A'
+for 'NatAlgDiscreteB.py':
+  username = 'tpkl28'; algorithm code = 'WO'; problem code = 'GC'; graph digit = 'B'
+for 'NatAlgDiscreteC.py':
+  username = 'tpkl28'; algorithm code = 'WO'; problem code = 'GC'; graph digit = 'C'
+
+Your submission has successfully validated!
